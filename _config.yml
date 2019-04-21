@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Ремонт стиральных и посудомоечных машин в СПб'
+title: 'Ремонт стиральных машин в СПб'
 
 collections:
   services:
