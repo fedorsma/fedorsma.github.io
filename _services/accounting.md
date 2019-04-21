@@ -1,11 +1,9 @@
 ---
-title: 'Accounting'
+title: 'Ремонт стиральных машин'
 image: '/services/noun_591323.png'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Оказываю услуги по ремонту стиральных машин Bosch, Ariston, Indesit,  Gorenje, Hansa, LG, Gaggenau, Körting, Liebherr, Neff, Siemens, Zelmer, AEG, Bauknecht, Beko, Blomberg, Candy, Electrolux, Ignis, Whirlpool, Zanussi.
 
 ## Ne verba patulosque numen vix libet
 
