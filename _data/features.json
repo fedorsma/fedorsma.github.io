@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Бесплатная консультация",
+    "description": "Произвожу первичную диагностику неисправности бесплатно.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Опытный мастер",
+    "description": "Обладаю большим опытом в ремонте стиральных и посудомоечных машин. Имеются в наличии запчасти первой необходимости популярных марок.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Низкая цена",
+    "description": "Мои услуги примерно на 20% ниже, чем в сервис-центрах и компаниях, поскольку являюсь частным мастером. Все запчасти, необходимые для ремонта, напрямую у производителей без наценки.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
