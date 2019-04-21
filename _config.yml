@@ -1,15 +1,12 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Ремонт стиральных и посудомоечных машин в СПб'
 
 collections:
   services:
     output: true
     permalink: /services/:path/
-  team:
-    output: true
-    permalink: /team/:path/
   testimonials:
     output: true
     permalink: /testimonials/:path/
