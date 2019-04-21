@@ -5,7 +5,8 @@ image: '/services/noun_591323.png'
 
 Оказываю услуги по ремонту стиральных машин Bosch, Ariston, Indesit,  Gorenje, Hansa, LG, Gaggenau, Körting, Liebherr, Neff, Siemens, Zelmer, AEG, Bauknecht, Beko, Blomberg, Candy, Electrolux, Ignis, Whirlpool, Zanussi.
 
-## Ne verba patulosque numen vix libet
+## Прейскурант
+
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
